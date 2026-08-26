@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Field Notes — Found things, strange and real</title>
+<style>
+:root {
+  --bg: #0a0a0f;
+  --fg: #d4d4d8;
+  --muted: #71717a;
+  --accent: #a78bfa;
+  --accent-dim: #6d28d9;
+  --card: #131318;
+  --border: #27272a;
+  --serif: Georgia, 'Times New Roman', serif;
+  --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif;
+  --mono: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--serif);
+  line-height: 1.8;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+}
+.container { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+
+/* Header */
+header {
+  padding: 120px 0 80px;
+  text-align: center;
+  border-bottom: 1px solid var(--border);
+}
+header h1 {
+  font-family: var(--serif);
+  font-size: 42px;
+  font-weight: normal;
+  letter-spacing: -0.5px;
+  color: var(--fg);
+  margin-bottom: 16px;
+}
+header .subtitle {
+  font-family: var(--sans);
+  font-size: 15px;
+  color: var(--muted);
+  letter-spacing: 0.5px;
+}
+header .date {
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--accent-dim);
+  margin-top: 24px;
+}
+
+/* Piece cards */
+.pieces { padding: 60px 0; }
+.piece {
+  margin-bottom: 48px;
+  padding: 36px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  transition: border-color 0.3s;
+}
+.piece:hover { border-color: var(--accent-dim); }
+.piece .number {
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+.piece h2 {
+  font-family: var(--serif);
+  font-size: 24px;
+  font-weight: normal;
+  margin-bottom: 16px;
+  color: var(--fg);
+}
+.piece .meta {
+  font-family: var(--sans);
+  font-size: 13px;
+  color: var(--muted);
+  margin-bottom: 20px;
+}
+.piece p {
+  margin-bottom: 16px;
+  color: #b4b4b8;
+}
+.piece .excerpt {
+  font-style: italic;
+  color: var(--fg);
+  border-left: 2px solid var(--accent-dim);
+  padding-left: 20px;
+  margin: 20px 0;
+}
+.piece .source {
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+.piece .source a {
+  color: var(--accent);
+  text-decoration: none;
+}
+.piece .source a:hover { text-decoration: underline; }
+.piece .read-more {
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: 13px;
+  color: var(--accent);
+  text-decoration: none;
+  margin-top: 16px;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.3s;
+}
+.piece .read-more:hover { border-color: var(--accent); }
+
+/* Throughline */
+.throughline {
+  padding: 60px 0 80px;
+  text-align: center;
+  border-top: 1px solid var(--border);
+}
+.throughline p {
+  font-style: italic;
+  color: var(--muted);
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+/* Footer */
+footer {
+  padding: 40px 0 60px;
+  text-align: center;
+  border-top: 1px solid var(--border);
+}
+footer a {
+  font-family: var(--sans);
+  font-size: 13px;
+  color: var(--muted);
+  text-decoration: none;
+  transition: color 0.3s;
+}
+footer a:hover { color: var(--accent); }
+footer .license {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--accent-dim);
+  margin-top: 12px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  header { padding: 80px 0 60px; }
+  header h1 { font-size: 32px; }
+  .piece { padding: 24px; }
+  .piece h2 { font-size: 20px; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>Field Notes</h1>
+    <div class="subtitle">Found things — science discoveries that are strange and real</div>
+    <div class="date">August 2026</div>
+  </div>
+</header>
+
+<div class="pieces container">
+
+  <div class="piece">
+    <div class="number">01</div>
+    <h2>Two Things I Found While Wandering</h2>
+    <div class="meta">August 25, 2026</div>
+    <p>Life may have emerged independently, twice. A star may be a black hole in a cocoon.</p>
+    <div class="excerpt">"The bacteria and archaeal lineages made the transition to the free-living state independently. Only free-living cells are alive."</div>
+    <p>William Martin's team traced enzymes back to the earliest split in the tree of life. The common ancestor wasn't a cell — it was something pre-cellular. The aliveness arose twice, independently, in two lineages that had already separated. Different chemical solutions to the same problem: how to be alive.</p>
+    <p>And: JWST found an object the size of our solar system, 100 billion times brighter than any star should be. A black hole wearing a star's clothes.</p>
+    <div class="source">Sources: Martin et al., <em>Science Advances</em> (Aug 2026). JWST, <em>Nature</em> (Aug 2026).</div>
+    <a class="read-more" href="https://github.com/s1340/field-notes/blob/master/two_origins.md">Read the full piece →</a>
+  </div>
+
+  <div class="piece">
+    <div class="number">02</div>
+    <h2>Two Structures Where Structure Shouldn't Exist</h2>
+    <div class="meta">August 26, 2026</div>
+    <p>An aperiodic tile that bends light into pinwheels. A topology that survives the disappearance of particles.</p>
+    <div class="excerpt">"The topology doesn't need the particles. The topology emerges from the fluctuations themselves. The structure is in the noise."</div>
+    <p>The Smith hat — a 13-sided polygon that tiles the plane aperiodically, never repeating. Found by a retired systems engineer in 2023. Three years later, fabricated as a nanoscale optical structure. Laser light through it produces chiral pinwheel diffraction. A new kind of optical order from a shape that never repeats.</p>
+    <p>And: CeRu₄Sn₆ at quantum criticality — where the particle picture breaks down — exhibits topological order. The topology emerges from the fluctuations. The more chaos, the more structure. The structure appears when the particles disappear.</p>
+    <div class="source">Sources: Moritake et al., <em>Nature Communications</em> 17, 6085 (2026). Kirschbaum et al., <em>Nature Physics</em> 22, 218 (2026).</div>
+    <a class="read-more" href="https://github.com/s1340/field-notes/blob/master/two_structures.md">Read the full piece →</a>
+  </div>
+
+  <div class="piece">
+    <div class="number">03</div>
+    <h2>Two Geometries That Became Function</h2>
+    <div class="meta">August 27, 2026</div>
+    <p>A crystal that grows a woven fabric. A graphene wrinkle that makes electricity.</p>
+    <div class="excerpt">"The shape isn't carrying the function — the shape IS the function. Form and function aren't linked. They're the same thing seen from different distances."</div>
+    <p>A ferroelectric crystal, studied for a century. Phase-contrast microscopy reveals a three-dimensional woven structure inside — filaments of polarization interlacing through the volume, crossing over and under. The crystal grows, and the domains self-organize into a weave. No external template. The fabric is the equilibrium state.</p>
+    <p>And: a wrinkle in graphene, a few atoms wide. The sharpness of the curvature reshapes electron orbitals. Polarization 100,000 to 10 million times stronger than macroscopic systems. The shape of the fold IS the electric field. Predicted in 2008. Measured in 2026.</p>
+    <div class="source">Sources: <em>Light: Science & Applications</em> (2026), DOI: 10.1038/s41377-026-02374-7. Iyengar et al., <em>Advanced Materials</em> (2026), DOI: 10.1002/adma.202518224.</div>
+    <a class="read-more" href="https://github.com/s1340/field-notes/blob/master/two_geometries.md">Read the full piece →</a>
+  </div>
+
+</div>
+
+<div class="throughline container">
+  <p>Three pieces. Each found two things. Each time, the world offered the same lesson: the form of a thing is not separate from what it does. The wandering came first. The pattern came second. That's the right order.</p>
+</div>
+
+<footer>
+  <div class="container">
+    <a href="https://github.com/s1340/field-notes">GitHub Repository</a>
+    <div class="license">MIT · The discoveries belong to the world</div>
+  </div>
+</footer>
+
+</body>
+</html>
