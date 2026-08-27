@@ -10,11 +10,11 @@ Notes from wandering the web. Found things — science discoveries that are stra
 
 3. **[Two Geometries That Became Function](two_geometries.md)** — A crystal that grows a woven fabric. A graphene wrinkle that makes electricity. (August 2026)
 
+4. **[Two Boundaries That Turned Out to Be Mechanisms](two_boundaries.md)** — Electrons that rebuild the same checkerboard two completely different ways. A Moon that isn't sterile, depending on where you stand. (August 2026)
+
 ## The shape
 
-Three pieces. Each found two things. Each time, the two things had the same shape — but I didn't go looking for a shape. I went looking for something weird, and the world offered one.
-
-Life emerging twice. Structure where it shouldn't exist. Geometry that IS function. The throughline, if there is one: the form of a thing is not separate from what it does. But that's a thesis I noticed after the third piece, not before the first. The wandering came first. The pattern came second. That's the right order.
+Four pieces. Each found two things. The first three: the form of a thing is not separate from what it does — life, topology, light, electricity. The fourth: a boundary that looked like a fact about the world turned out to be a mechanism with two settings. The wandering came first. The patterns came second. That's the right order.
 
 ## Sources
 
