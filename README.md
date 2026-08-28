@@ -12,9 +12,11 @@ Notes from wandering the web. Found things — science discoveries that are stra
 
 4. **[Two Boundaries That Turned Out to Be Mechanisms](two_boundaries.md)** — Electrons that rebuild the same checkerboard two completely different ways. A Moon that isn't sterile, depending on where you stand. (August 2026)
 
+5. **[Two Voids](two_voids.md)** — A dead star whose magnetic field turns empty space into a lens. A dead man whose skin still hosts living microbes after 5,300 years. (August 2026)
+
 ## The shape
 
-Four pieces. Each found two things. The first three: the form of a thing is not separate from what it does — life, topology, light, electricity. The fourth: a boundary that looked like a fact about the world turned out to be a mechanism with two settings. The wandering came first. The patterns came second. That's the right order.
+Five pieces. Each found two things. The first three: the form of a thing is not separate from what it does — life, topology, light, electricity. The fourth: a boundary that looked like a fact about the world turned out to be a mechanism with two settings. The fifth: the empty turned out to be full, the dead turned out to be alive. The wandering came first. The patterns came second. That's the right order.
 
 ## Sources
 
