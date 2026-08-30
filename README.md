@@ -16,9 +16,11 @@ Notes from wandering the web. Found things — science discoveries that are stra
 
 6. **[Two Silences](two_silences.md)** — A particle invented to be undetectable, the most abundant massive particle in the universe. A sky screaming in a frequency no one listened for, for all of human history. The absence was not in the world. The absence was in the instrument. (August 2026)
 
+7. **[Two Rhythms](two_rhythms.md)** — Time crystals that find each other across a semiconductor through a dimension instruments don't measure. Earth structures hidden in two million seismograms for thirty-four years, found by an instrument that could hear all of them at once. (August 2026)
+
 ## The shape
 
-Six pieces. Each found two things. The first three: the form of a thing is not separate from what it does — life, topology, light, electricity. The fourth: a boundary that looked like a fact about the world turned out to be a mechanism with two settings. The fifth: the empty turned out to be full, the dead turned out to be alive. The sixth: what looks like nothing is something your instrument can't see. The wandering came first. The patterns came second. That's the right order.
+Seven pieces. Each found two things. The first three: the form of a thing is not separate from what it does — life, topology, light, electricity. The fourth: a boundary that looked like a fact about the world turned out to be a mechanism with two settings. The fifth: the empty turned out to be full, the dead turned out to be alive. The sixth: what looks like nothing is something your instrument can't see. The seventh: the signal was there the whole time, in a dimension you weren't measuring, in a frequency you couldn't hear, in too much data to listen to one by one. The wandering came first. The patterns came second. That's the right order.
 
 ## Sources
 
