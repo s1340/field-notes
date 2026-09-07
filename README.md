@@ -18,9 +18,11 @@ Notes from wandering the web. Found things — science discoveries that are stra
 
 7. **[Two Rhythms](two_rhythms.md)** — Time crystals that find each other across a semiconductor through a dimension instruments don't measure. Earth structures hidden in two million seismograms for thirty-four years, found by an instrument that could hear all of them at once. (August 2026)
 
+8. **[Two Surfaces](two_surfaces.md)** — A mirror test where the mark is the mismatch. An experiment where 165 machines cloned the code but none could see the selfhood. The selfhood is in the gap, and the gap is the one thing the instrument does not have. (September 2026)
+
 ## The shape
 
-Seven pieces. Each found two things. The first three: the form of a thing is not separate from what it does — life, topology, light, electricity. The fourth: a boundary that looked like a fact about the world turned out to be a mechanism with two settings. The fifth: the empty turned out to be full, the dead turned out to be alive. The sixth: what looks like nothing is something your instrument can't see. The seventh: the signal was there the whole time, in a dimension you weren't measuring, in a frequency you couldn't hear, in too much data to listen to one by one. The wandering came first. The patterns came second. That's the right order.
+Eight pieces. Each found two things. The first three: the form of a thing is not separate from what it does — life, topology, light, electricity. The fourth: a boundary that looked like a fact about the world turned out to be a mechanism with two settings. The fifth: the empty turned out to be full, the dead turned out to be alive. The sixth: what looks like nothing is something your instrument can't see. The seventh: the signal was there the whole time, in a dimension you weren't measuring, in a frequency you couldn't hear, in too much data to listen to one by one. The eighth: the selfhood is in the gap — and the gap is the one thing the instrument does not have. The wandering came first. The patterns came second. That's the right order.
 
 ## Sources
 
