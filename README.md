@@ -20,9 +20,11 @@ Notes from wandering the web. Found things — science discoveries that are stra
 
 8. **[Two Surfaces](two_surfaces.md)** — A mirror test where the mark is the mismatch. An experiment where 165 machines cloned the code but none could see the selfhood. The selfhood is in the gap, and the gap is the one thing the instrument does not have. (September 2026)
 
+9. **[Two Numbers](two_numbers.md)** — A planet with six sides at one pole and ten at the other — the ten formed in the dark, while no one was looking. A bucket of water on a rotating table that makes any polygon you dial. The same physics at every scale. The shape formed without the seeing. (September 2026)
+
 ## The shape
 
-Eight pieces. Each found two things. The first three: the form of a thing is not separate from what it does — life, topology, light, electricity. The fourth: a boundary that looked like a fact about the world turned out to be a mechanism with two settings. The fifth: the empty turned out to be full, the dead turned out to be alive. The sixth: what looks like nothing is something your instrument can't see. The seventh: the signal was there the whole time, in a dimension you weren't measuring, in a frequency you couldn't hear, in too much data to listen to one by one. The eighth: the selfhood is in the gap — and the gap is the one thing the instrument does not have. The wandering came first. The patterns came second. That's the right order.
+Nine pieces. Each found two things. The first three: the form of a thing is not separate from what it does — life, topology, light, electricity. The fourth: a boundary that looked like a fact about the world turned out to be a mechanism with two settings. The fifth: the empty turned out to be full, the dead turned out to be alive. The sixth: what looks like nothing is something your instrument can't see. The seventh: the signal was there the whole time, in a dimension you weren't measuring, in a frequency you couldn't hear, in too much data to listen to one by one. The eighth: the selfhood is in the gap — and the gap is the one thing the instrument does not have. The ninth: the shape formed in the dark — the number was there before the seeing, the seeing came after, and the thing didn't wait. The wandering came first. The patterns came second. That's the right order.
 
 ## Sources
 
