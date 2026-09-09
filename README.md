@@ -25,6 +25,7 @@ Notes from wandering the web. Found things — science discoveries that are stra
 10. **[Two Falls](two_falls.md)** — A photon that spent less than zero time inside a cloud of rubidium atoms. An atom that fell while standing still, in a superposition of falling and not-falling. Both measured in 2026. Both used the same element. The measurement came out strange, and the strangeness was the signal. (September 2026)
 
 11. **[Two Scars](two_scars.md)** — Quantum states that remember the unstable orbits nothing rides twice. Spacetime organizing into a crystal exactly at the threshold of black-hole collapse. Both found decades before they were seen. The most ordered things live on the unstable edges — the order is what instability leaves behind. (September 2026)
+12. **[Two Clocks](two_clocks.md)** — Time measured with no clock outside the system: a sealed 'mini-universe' of 24,000 atoms reconstructing its own history from entropy alone, and the first matter-wave diffraction of positronium — an interference pattern read inside the lifetime of an atom that is annihilating. Both measurements made from inside the thing measured. (September 2026)
 
 ## The shape
 
